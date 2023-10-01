@@ -6,32 +6,7 @@ CrytoApp , An app that shows the top cryptocurrencies along with their details .
 
 ### Features of the Application
 
-* User authentication via username and password
-* User Profile Management
-* Dasboard to manage user credits and debits
-* Loan Applications
-* Credit Score Calculation
-* Loan Application Form
-* Mail Notifications
-* Loan Modification & Acceptance
-
-
-
-## App
-
-![Application logo](https://firebasestorage.googleapis.com/v0/b/fundon-2da20.appspot.com/o/logo.png?alt=media&token=81d14b9d-3afe-4b05-8b91-c5585f08d1b8 "Application Logo")
-
-[Download Application Apk from here](https://drive.google.com/drive/u/0/folders/1Y3_H9DHplN7iRJheM_niGfODk8vWAq-R)
-
-
-## Figma
-
-
-The detailed of every feature can be viewed from the following link:
-
-[Presentation Link for App](https://drive.google.com/file/d/18ymOF7kE_pjSeF7S14uVOT-m4Vdt2SUA/view?usp=sharing)
-
-[Figma](https://www.figma.com/file/JzJUr5rHlJdGu8pJNP7WD9/Fundon?node-id=0%3A1)
+* Display details of all cryptocurrencies .
 
 ### TechStack and Libraries Used :
 
