@@ -1,8 +1,7 @@
 
-# Fundon App
+# Crypto App
 
-Fundon, a C2C (Customer to Customer) personal loan lending platform based on MVVM model which can be used be request loan from other users on the application
-and can also lend money to them.
+CrytoApp , An app that shows the top cryptocurrencies along with their details .
 
 
 ### Features of the Application
